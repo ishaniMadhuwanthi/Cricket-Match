@@ -1,6 +1,6 @@
 # SPARK
 
-## SparkX Proffessional Development Program-2020
+## SPARKX Professional Development Program-2020
 - - - - - -
 
 ## Cricket Match
@@ -29,7 +29,7 @@ This is a simple exercise to model and implement a cricket game. My task is to b
 * Runs/ getting out should be random (hint: use a random number generator)
 * After a match, a scoreboard should be shown, with the result 
 
-### How to run the cprogram
+### How to run the program
 
 1. Java code for cricket match and the runnable jar file is include this  folder.
 
